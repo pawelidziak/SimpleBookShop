@@ -1,2 +1,8 @@
 # SimpleBookShop
-Front-end for simple Book Shop
+
+First view for simple Book Shop
+
+Live: https://pawelidziak.github.io/SimpleBookShop/
+
+# Technologies
+Angular 2, Typescript, Bootstrap 4
