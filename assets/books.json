@@ -25,7 +25,7 @@
     "inStock" : true,
     "price" : 14.95,
     "starRating": 4.23,
-    "imageUrl": "/assets/images/5907.jpg"
+    "imageUrl": "assets/images/5907.jpg"
   },
   {
     "id" : "3",
