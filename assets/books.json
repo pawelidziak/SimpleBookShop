@@ -1,7 +1,7 @@
 [
   {
     "id" : "1",
-    "name" : "test",
+    "name" : "Book title test",
     "productCode": "GSI-0011",
     "releaseDate": "March 19, 1865",
     "description": "Tolstoy's epic masterpiece intertwines the lives of private and public individuals during the time of the Napoleonic wars and the French invasion of Russia. The fortunes of the Rostovs and the Bolkonskys, of Pierre, Natasha, and Andrei, are intimately connected with the national history that is played out in parallel with their lives. Balls and soirees alternate with councils of war and the machinations of statesmen and generals, scenes of violent battles with everyday human passions in a work whose extraordinary imaginative power has never been surpassed.",
@@ -25,7 +25,7 @@
     "inStock" : true,
     "price" : 14.95,
     "starRating": 4.23,
-    "imageUrl": "/././assets/images/5907.jpg"
+    "imageUrl": "/assets/images/5907.jpg"
   },
   {
     "id" : "3",
@@ -39,7 +39,7 @@
     "inStock" : true,
     "price" : 9.95,
     "starRating": 3.87,
-    "imageUrl": "/../../assets/images/107291.jpg"
+    "imageUrl": "assets/images/107291.jpg"
   },
   {
     "id" : "4",
@@ -53,7 +53,7 @@
     "inStock" : true,
     "price" : 8.95,
     "starRating": 4.24,
-    "imageUrl": "images/2657.jpg"
+    "imageUrl": "assets/images/2657.jpg"
   },
   {
     "id" : "5",
@@ -67,7 +67,7 @@
     "inStock" : true,
     "price" : 11.95,
     "starRating": 3.75,
-    "imageUrl": "./images/16213.jpg"
+    "imageUrl": "assets/images/16213.jpg"
   },
   {
     "id" : "6",
@@ -81,6 +81,6 @@
     "inStock" : true,
     "price" : 14.95,
     "starRating": 4.12,
-    "imageUrl": "/images/2095.jpg"
+    "imageUrl": "assets/images/2095.jpg"
   }
 ]
